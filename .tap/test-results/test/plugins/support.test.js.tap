@@ -1,6 +1,6 @@
 TAP version 14
 # Subtest: queue works
     1..0
-ok 1 - queue works # time=75.9ms
+ok 1 - queue works # time=11.369ms
 
 1..1

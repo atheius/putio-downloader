@@ -1,6 +1,6 @@
 const path = require("path");
-const AutoLoad = require("fastify-autoload");
-const Env = require("fastify-env");
+const AutoLoad = require("@fastify/autoload")
+const Env = require("@fastify/env");
 const S = require("fluent-json-schema");
 const schedule = require("node-schedule");
 const filebot = require("./plugins/filebot");
@@ -24,11 +24,11 @@ module.exports = async function (fastify, opts) {
   });
 
   // Register plugins
-  fastify.register(require("fastify-sensible"), {
+  fastify.register(require("@fastify/sensible"), {
     errorHandler: false,
   });
   fastify.register(require("fastify-healthcheck"));
-  fastify.register(require("fastify-formbody"));
+  fastify.register(require("@fastify/formbody"));
 
   // Register custom plugins (need to be loaded in order)
   await fastify.register(filebot);

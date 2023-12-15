@@ -1,0 +1,6 @@
+TAP version 14
+# Subtest: default root route
+    ok 1 - should be equivalent
+    1..1
+1..0 # no tests found
+1..0 # no tests found

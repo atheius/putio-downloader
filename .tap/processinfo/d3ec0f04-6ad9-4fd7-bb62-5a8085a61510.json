@@ -1,0 +1,246 @@
+{
+  "date": "2023-12-15T22:43:08.786Z",
+  "argv": [
+    "/home/james/.nvm/versions/node/v21.4.0/bin/node",
+    "/home/james/git/putio-downloader/test/routes/root.test.js"
+  ],
+  "execArgv": [
+    "--import=file:///home/james/git/putio-downloader/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "--import=file:///home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "--enable-source-maps",
+    "--import=file:///home/james/git/putio-downloader/node_modules/@tapjs/processinfo/dist/esm/import.mjs"
+  ],
+  "NODE_OPTIONS": "\"--import=file:///home/james/git/putio-downloader/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
+  "cwd": "/home/james/git/putio-downloader",
+  "pid": 6413,
+  "ppid": 6383,
+  "parent": null,
+  "uuid": "d3ec0f04-6ad9-4fd7-bb62-5a8085a61510",
+  "files": [
+    "/home/james/git/putio-downloader/test/routes/root.test.js",
+    "/home/james/git/putio-downloader/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "/home/james/git/putio-downloader/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import-loader.mjs",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/mock-service.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/is-relative-require.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/export-line.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/munge-mocks.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/resolve-mock-entry-point.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/service-key.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-all-conditional-values.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-all-conditions.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-unique-condition-sets.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-all-exports.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-all-local-imports.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-conditional-value.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-import.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/call-site-like.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/require-resolve.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/is-windows.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/errors.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/file-exists.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-dependency-export.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-package-import.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/to-file-url.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/to-path.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/parse.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-conditional-values-list.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/find-dep-package.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/read-pkg.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/star-glob.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-named-exports-list.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-export.js",
+    "/home/james/git/putio-downloader/node_modules/walk-up-path/dist/mjs/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/find-star-match.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/read-json.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/glob.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/has-magic.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/assert-valid-pattern.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/ast.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/escape.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/unescape.js",
+    "/home/james/git/putio-downloader/node_modules/path-scurry/dist/mjs/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/pattern.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/walker.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/brace-expressions.js",
+    "/home/james/git/putio-downloader/node_modules/minipass/dist/esm/index.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/ignore.js",
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/processor.js",
+    "/home/james/git/putio-downloader/node_modules/path-scurry/node_modules/lru-cache/dist/esm/index.js",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/loader.mjs",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/hooks.mjs",
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/mock-service-client.js",
+    "/home/james/git/putio-downloader/test/helper.js",
+    "/home/james/git/putio-downloader/src/app.js",
+    "/home/james/git/putio-downloader/src/plugins/filebot.js",
+    "/home/james/git/putio-downloader/src/plugins/putio.js",
+    "/home/james/git/putio-downloader/src/plugins/processor.js",
+    "/home/james/git/putio-downloader/src/plugins/queue.js",
+    "/home/james/git/putio-downloader/src/routes/root.js",
+    "/home/james/git/putio-downloader/src/routes/file/index.js"
+  ],
+  "sources": {
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/import.mjs": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/import.mts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/mock-service.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/mock-service.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/index.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/stack/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/index.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/is-relative-require.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/is-relative-require.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/export-line.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/export-line.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/munge-mocks.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/munge-mocks.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/resolve-mock-entry-point.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/resolve-mock-entry-point.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/mock/dist/esm/service-key.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/mock/src/service-key.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-all-conditional-values.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/get-all-conditional-values.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-all-conditions.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/get-all-conditions.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-unique-condition-sets.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/get-unique-condition-sets.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-all-exports.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-all-exports.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-all-local-imports.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-all-local-imports.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-conditional-value.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-conditional-value.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-import.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-import.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/call-site-like.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/stack/src/call-site-like.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/require-resolve.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/stack/src/require-resolve.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/is-windows.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/is-windows.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/errors.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/errors.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/file-exists.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/file-exists.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-dependency-export.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-dependency-export.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-package-import.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-package-import.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/to-file-url.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/to-file-url.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/to-path.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/to-path.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/@tapjs/stack/dist/esm/parse.js": [
+      "/home/james/git/putio-downloader/node_modules/@tapjs/stack/src/parse.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-conditional-values-list.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/get-conditional-values-list.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/find-dep-package.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/find-dep-package.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/read-pkg.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/read-pkg.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/star-glob.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/star-glob.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/get-named-exports-list.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/get-named-exports-list.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/resolve-export.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/resolve-export.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/walk-up-path/dist/mjs/index.js": [
+      "/home/james/git/putio-downloader/node_modules/walk-up-path/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/find-star-match.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/find-star-match.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/dist/esm/read-json.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/src/read-json.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/index.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/index.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/glob.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/glob.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/has-magic.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/has-magic.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/assert-valid-pattern.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/assert-valid-pattern.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/ast.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/ast.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/escape.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/escape.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/unescape.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/unescape.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/path-scurry/dist/mjs/index.js": [
+      "/home/james/git/putio-downloader/node_modules/path-scurry/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/pattern.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/pattern.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/walker.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/walker.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/dist/mjs/brace-expressions.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/minimatch/src/brace-expressions.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/minipass/dist/esm/index.js": [
+      "/home/james/git/putio-downloader/node_modules/minipass/src/index.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/ignore.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/ignore.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/dist/esm/processor.js": [
+      "/home/james/git/putio-downloader/node_modules/resolve-import/node_modules/glob/src/processor.ts"
+    ],
+    "/home/james/git/putio-downloader/node_modules/path-scurry/node_modules/lru-cache/dist/esm/index.js": [
+      "/home/james/git/putio-downloader/node_modules/path-scurry/node_modules/lru-cache/src/index.ts"
+    ]
+  },
+  "root": "d3ec0f04-6ad9-4fd7-bb62-5a8085a61510",
+  "externalID": "test/routes/root.test.js",
+  "code": 0,
+  "signal": null,
+  "runtime": 773.099035
+}
